@@ -1,4 +1,4 @@
-new line
+conflict line 2
 second line
 third line
 fourth line
