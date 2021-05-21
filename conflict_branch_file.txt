@@ -1,1 +1,2 @@
 first line
+local edition for conflict
